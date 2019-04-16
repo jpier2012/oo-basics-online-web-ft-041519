@@ -1,5 +1,4 @@
 # Make your shoe class here!
-require 'pry'
 
 class Shoe
   def initialize(brand)
@@ -14,9 +13,3 @@ class Shoe
   end
 
 end
-
-binding.pry
-
-nike = Shoe.new("Nike")
-
-nike.cobble
