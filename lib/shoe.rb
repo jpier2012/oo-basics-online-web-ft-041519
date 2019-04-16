@@ -17,6 +17,6 @@ end
 
 binding.pry
 
-nike = Shoe.new
+nike = Shoe.new("Nike")
 
 nike.cobble
