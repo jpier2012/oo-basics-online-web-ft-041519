@@ -1,6 +1,5 @@
 # Make your shoe class here!
-binding.pry
-
+require 'pry'
 
 class Shoe
   def initialize(brand)
